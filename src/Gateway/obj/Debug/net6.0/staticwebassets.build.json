@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mm2RDizQeHix8kCAUsZgS+0ztC2dLjQoQlefsvZCCqc=",
+  "Source": "Gateway",
+  "BasePath": "_content/Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{52FE7FA2-964
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identity.Api", "src\Services\Identity.Api\Identity.Api.csproj", "{CD3B4286-96ED-4840-BE39-0696D5E2529A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitedavi.Api", "src\Services\bitedavi.Api\bitedavi.Api.csproj", "{F985371A-37BF-48DB-873A-5E20802564A4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebClient", "src\Services\WebClient\WebClient.csproj", "{DFB135E6-2E39-42E3-B613-58E5DE7718AE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway", "src\Gateway\Gateway.csproj", "{4F7FC1F9-F522-417E-A8DE-079ABA3258CB}"

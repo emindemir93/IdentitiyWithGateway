@@ -1,0 +1,12 @@
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\bin\Debug\net6.0\BuildingBlocks.ApplicationUser.deps.json
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\bin\Debug\net6.0\BuildingBlocks.ApplicationUser.dll
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\bin\Debug\net6.0\BuildingBlocks.ApplicationUser.pdb
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.csproj.AssemblyReference.cache
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.AssemblyInfoInputs.cache
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.AssemblyInfo.cs
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.csproj.CoreCompileInputs.cache
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.dll
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\refint\BuildingBlocks.ApplicationUser.dll
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\BuildingBlocks.ApplicationUser.pdb
+D:\Projects\BiTedavi\bitedavi2\src\BuildingBlocks\ApplicationUser\obj\Debug\net6.0\ref\BuildingBlocks.ApplicationUser.dll

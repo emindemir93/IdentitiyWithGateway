@@ -1,0 +1,12 @@
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\bin\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.deps.json
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\bin\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.dll
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\bin\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.pdb
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.csproj.AssemblyReference.cache
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.AssemblyInfoInputs.cache
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.AssemblyInfo.cs
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.csproj.CoreCompileInputs.cache
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.dll
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\ref\Rodos.BuildingBlocks.ApplicationUser.dll
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\Rodos.BuildingBlocks.ApplicationUser.pdb
+D:\Projects\Rodos\src\BuildingBlocks\ApplicationUser\obj\Debug\net5.0\refint\Rodos.BuildingBlocks.ApplicationUser.dll
