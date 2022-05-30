@@ -1,0 +1,58 @@
+version: '3.4'
+
+services: 
+  # gateway:
+  #   image: ${DOCKER_REGISTRY-}gateway
+  #   build:
+  #     context: .
+  #     dockerfile: src/Gateway/Dockerfile   
+  #   volumes:
+  #     - ~/.aspnet/https:/https:ro
+  #   ports:
+  #     - "5000:80"   
+  #   restart: on-failure
+  # crm:
+  #   image: ${DOCKER_REGISTRY-}crm
+  #   build:
+  #     context: .
+  #     dockerfile: src/Services/Crm.Api/Dockerfile   
+  #   volumes:
+  #     - ~/.aspnet/https:/https:ro
+  #   ports:
+  #     - "5001:80"
+  #   depends_on:
+  #     - postgres
+  #     - gateway
+  #     - identity
+  #   restart: on-failure
+  identity:
+    container_name: identity
+    image: ${DOCKER_REGISTRY-}identity
+    build:
+      context: .
+      dockerfile: src/Services/Identity.Api/Dockerfile   
+    volumes:
+      - ~/.aspnet/https:/https:ro
+    ports:
+      - "5002:80"
+    depends_on:
+      - sql.data
+    restart: on-failure
+  sql.data:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      - MSSQL_SA_PASSWORD=Sakarya54*
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+    ports:
+      - "5433:1433"
+
+  # postgres:
+  #   container_name: postgres_container
+  #   image: postgres
+  #   environment:
+  #     POSTGRES_USER: "sa"
+  #     POSTGRES_PASSWORD: "Sakarya54*"
+  #   ports:
+  #     - "5432:5432"
+  #   restart: unless-stopped
